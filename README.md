@@ -1,1 +1,1 @@
-# better_errorsのgemが必要です
+### better_errorsのgemが必要です
