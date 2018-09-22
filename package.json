@@ -1,0 +1,17 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --compilers js:babel-core/register --recursive test/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "mocha": "^5.2.0"
+  }
+}
