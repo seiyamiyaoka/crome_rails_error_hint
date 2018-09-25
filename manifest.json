@@ -1,6 +1,6 @@
 {
-  "name": "Getting Started Example",
-  "version": "1.0",
+  "name": "rails error hint",
+  "version": "1.1",
   "description": "Build an Extension!",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
